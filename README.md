@@ -12,6 +12,15 @@ This README provides an outline of an Exploratory Data Analysis (EDA) process co
 
 ---
 
+## Observations
+- **Startups:** Many smaller companies completely shut down during this period, often after failing to sustain operations despite significant funding.
+- **Industries:** Technology and manufacturing sectors experienced some of the largest layoffs.
+- **Trends:** Layoffs peaked during specific economic events, visible in yearly and monthly aggregations.
+- **Outliers:** Companies like Quibi, which raised massive funds yet failed, stand out as notable case studies.
+  
+---
+
+
 ## Steps and Insights
 
 ### **1. Initial Exploration**
@@ -118,13 +127,7 @@ This README provides an outline of an Exploratory Data Analysis (EDA) process co
   ORDER BY dates ASC;
   ```
 
----
 
-## Observations
-- **Startups:** Many smaller companies completely shut down during this period, often after failing to sustain operations despite significant funding.
-- **Industries:** Technology and manufacturing sectors experienced some of the largest layoffs.
-- **Trends:** Layoffs peaked during specific economic events, visible in yearly and monthly aggregations.
-- **Outliers:** Companies like Quibi, which raised massive funds yet failed, stand out as notable case studies.
 
 ---
 
